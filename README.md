@@ -1,0 +1,2 @@
+# szgmgyak
+az első reponk
